@@ -33,7 +33,7 @@
 }
 .i-title-wrapper{
     height:100%;
-    animation: move 20s ease-in-out infinite alternate;
+    animation: move 2s ease-in-out infinite alternate;
 }
 @keyframes move{
     16.67%{
