@@ -1,0 +1,23 @@
+.box{
+    display:flex;
+    flex-direction: row;
+}
+.gears{
+    height: 100vh;
+    flex:1;
+    background: url(../../assets/gear.svg);
+    display: flex;
+    background-repeat:repeat-y;
+}
+.pro-1{
+    flex:2;
+    height: fit-content;
+}
+.pro-2{
+    flex:2;
+    height: fit-content;
+}
+.pro-3{
+    flex:2;
+    height: fit-content;
+}
