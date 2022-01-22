@@ -6,11 +6,31 @@ function Navbar() {
     return (
         <>
           <div className="navbar">
-              <div className="home nav-item">HOME</div>
-              <div className="projects nav-item">PROJECTS</div>
-              <div className="getintouch nav-item">GET IN TOUCH</div>
-              <div className="publication nav-item">PUBLICATION</div>
-              <div className="blogs nav-item">BLOGS</div>
+            <div className="home nav-item">
+                <Link className="Link" to={'/'}>
+                    HOME
+                </Link>
+            </div>
+            <div className="projects nav-item">
+                <Link className="Link" to={'/projects'}>
+                    PROJECTS
+                </Link>
+            </div>
+            <div className="getintouch nav-item">
+                <Link className="Link" to={'/get-in-touch'}>
+                    GET IN TOUCH
+                </Link>
+            </div>
+            <div className="publication nav-item">
+                <Link className="Link" to={'/publication'}>
+                    PUBLICATION
+                </Link>
+            </div>
+            <div className="blogs nav-item">
+                <Link className="Link" to={'/blogs'}>
+                    BLOGS
+                </Link>
+            </div>
           </div>  
         </>
     )
