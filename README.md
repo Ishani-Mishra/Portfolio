@@ -2,23 +2,23 @@
 A portfolio website is a fun way to showcase one's personality, beliefs, ideas, and creativity. It is a compilation of the projects, contributions, learnings, and qualifications. This project showcases the design as well as development skills that I have learned thus far.
 
 # Features
-![home](https://user-images.githubusercontent.com/71793856/171903225-5872673a-69d9-4c0a-ab78-2a092c7453be.png)
+![home](https://user-images.githubusercontent.com/71793856/171904231-9b21b4c4-3419-49ce-aece-095b1c93e260.png)
 ### Home
 - This is the landing page where I gave a brief description of myself. I have also listed a few areas of interest. 
 
-![projects](https://user-images.githubusercontent.com/71793856/171903251-0375bb74-861a-43c1-a051-787784b59a0b.png)
+![projects](https://user-images.githubusercontent.com/71793856/171904262-b0d24a64-467b-4d84-ab8c-28efe642dce3.png)
 ### Projects
 - This section includes the projects showcased in a gallery format. The title, brief description, and link to the project have also been provided.
 
-![get-in-touch](https://user-images.githubusercontent.com/71793856/171903280-5a9580ba-396e-4e5b-999b-b5299c31cf8c.png)
+![get-in-touch](https://user-images.githubusercontent.com/71793856/171904306-d61d63fb-df35-4f5a-a556-f6acce5c673c.png)
 ### Get-in-touch
 - This section is for anyone who wants to drop a message regarding collaborating on a project or any other topic.
 
-![publications](https://user-images.githubusercontent.com/71793856/171903309-dc8b8a3b-2084-4e9f-8f01-106b9c864206.png)
+![publications](https://user-images.githubusercontent.com/71793856/171904344-60ba35e1-7489-412a-9c16-2f0dd99852fb.png)
 ### Publication
 - The published articles will be embedded here for a quick go-through. 
 
-![blogs](https://user-images.githubusercontent.com/71793856/171903343-c3bede2a-ef7f-4192-9e81-c7fe98fada57.png)
+![blogs](https://user-images.githubusercontent.com/71793856/171904386-f959c40b-a100-48c2-ba1f-bcab9b290e58.png)
 ### Blogs
 - Technical, non-technical, any sort of fun experience documented in a comprehensive manner is put up here.
 
