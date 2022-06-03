@@ -1,6 +1,7 @@
 import React from 'react';
 import "../Intro/intro.css";
 // import Me from "../../assets/me-3.png"; 
+import Photo from "../../assets/photo.png";
 
 function Intro() {
     return (
@@ -68,6 +69,7 @@ function Intro() {
 </defs>
 </svg>
 
+            <img src={Photo} alt="" className="i-img"></img>
 
          </div>
         </div>

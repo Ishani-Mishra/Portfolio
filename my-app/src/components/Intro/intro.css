@@ -49,22 +49,22 @@
 }
 @keyframes move{
     16.67%{
-        transform:translateY(-50px);
+        transform:translateY(-60px);
     }
     33.34%{
-        transform:translateY(-100px);
+        transform:translateY(-120px);
     }
     50.01%{
-        transform:translateY(-150px);
+        transform:translateY(-180px);
     }
     66.68%{
-        transform:translateY(-200px);
+        transform:translateY(-240px);
     }
     83.35%{
-        transform:translateY(-250px);
+        transform:translateY(-300px);
     }
     100%{
-        transform:translateY(-300px);
+        transform:translateY(-360px);
     }
 }
 
@@ -84,20 +84,23 @@
 }
 
 .i-img{
-    width: 800px;
-    height: 800px;
+    width:auto;
+    height: 700px;
     object-fit: cover;
-    float:right;
-    display: flex;
-    align-items: center;
-    align-content: center;
+    position: absolute;
+    float: right;
+    right: 200px;
+    top: 100px;
+    z-index: 999;
 }
-.svg{
-    display: flex;
-    align-items: center;
-    align-content: center;
-    width: 800px;
-    height: 800px;
+svg{
+    width:auto;
+    height: 680px;
+    object-fit: cover;
+    position: absolute;
+    float: right;
+    right: 0%;
+    z-index: -999;
 }
 @media only screen and (max-width:1100px){
     .i-img{
@@ -132,7 +135,7 @@
     } 
   }
 
-  .i-right svg #socials, #linkedin, #github, #behance, #instagram{
+  #socials, #linkedin, #github, #behance, #instagram{
       animation: social 35s infinite linear;
       transform-origin: center;
       transform-box: fill-box;
