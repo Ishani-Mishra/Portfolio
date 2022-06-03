@@ -2,19 +2,19 @@
 A portfolio website is a fun way to showcase one's personality, beliefs, ideas, and creativity. It is a compilation of the projects, contributions, learnings, and qualifications. This project showcases the design as well as development skills that I have learned thus far.
 
 # Features
-### Home
+### Home ![home](https://user-images.githubusercontent.com/71793856/171903225-5872673a-69d9-4c0a-ab78-2a092c7453be.png)
 - This is the landing page where I gave a brief description of myself. I have also listed a few areas of interest. 
 
-### Projects
+### Projects![projects](https://user-images.githubusercontent.com/71793856/171903251-0375bb74-861a-43c1-a051-787784b59a0b.png)
 - This section includes the projects showcased in a gallery format. The title, brief description, and link to the project have also been provided.
 
-### Get-in-touch
+### Get-in-touch![get-in-touch](https://user-images.githubusercontent.com/71793856/171903280-5a9580ba-396e-4e5b-999b-b5299c31cf8c.png)
 - This section is for anyone who wants to drop a message regarding collaborating on a project or any other topic.
 
-### Publication
+### Publication![publications](https://user-images.githubusercontent.com/71793856/171903309-dc8b8a3b-2084-4e9f-8f01-106b9c864206.png)
 - The published articles will be embedded here for a quick go-through. 
 
-### Blogs
+### Blogs![blogs](https://user-images.githubusercontent.com/71793856/171903343-c3bede2a-ef7f-4192-9e81-c7fe98fada57.png)
 - Technical, non-technical, any sort of fun experience documented in a comprehensive manner is put up here.
 
 # How to use
